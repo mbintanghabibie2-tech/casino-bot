@@ -1,0 +1,12 @@
+{
+  "name": "casino-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.5.45",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
